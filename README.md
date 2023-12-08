@@ -1,4 +1,4 @@
-#League of legends tft round winrate predictor
+League of legends tft round winrate predictor
  
 
 
